@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5BB4775B-4774-AC72-39E1-50B9381CBCFC}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TPSProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
